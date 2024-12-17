@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: aliceblue;
+}
+
+.heading {
+  padding: 30px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.hidden {
+  display: none;
+}
